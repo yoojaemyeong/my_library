@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='mylib',
-    version='0.0.1',
+    version='0.0.2',
     description='my functions',
     url='github-my_library',
     author='wesleyok',

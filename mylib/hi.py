@@ -1,3 +1,6 @@
 #hi 함수
 def hi(name):
-    print(f"안녕하세요. {name}님 !! ")
+    if name:
+        print("안녕하세요 ", name, "님 !! ")
+    else:
+        print("안녕하세요")
